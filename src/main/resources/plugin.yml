@@ -1,0 +1,9 @@
+name: Signer
+version: ${project.version}
+main: de.sn0wfl4ke.signer.Main.Main
+api-version: 1.13
+
+commands:
+  sign:
+    description: Oeffne Signmenu
+    usage: /sign
